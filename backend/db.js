@@ -1,7 +1,7 @@
 require("dotenv").config();
 const mongoose = require('mongoose');
 
-console.log("MONGO_URL:", process.env.MONGO_URL);
+// console.log("MONGO_URL:", process.env.MONGO_URL);
 
 const connectToMongo = async () => {
     try {
