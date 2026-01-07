@@ -190,11 +190,11 @@ const About = () => {
             <div className="footer-box">
               <h4><i className="fas fa-link"></i> Quick Links</h4>
               <ul className="footer-links-list">
-                <li><a href="/">Home</a></li>
+                 <li><a href="/">Home</a></li>
                 <li><a href="/about">About</a></li>
                 <li><a href="/">Notes</a></li>
                 <li><a href="/login">Login</a></li>
-              </ul>
+               </ul>
             </div>
 
             {/* Contact Us */}
