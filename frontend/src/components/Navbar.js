@@ -87,7 +87,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-info">
       <div className="container">
-        <NavLink className="navbar-brand" to="/" style={{color:"black"}}>iNotebook</NavLink>
+        <NavLink className="navbar-brand" to="/" style={{color:"black"}}>NoteVault</NavLink>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu" aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
